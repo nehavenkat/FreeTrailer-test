@@ -14,7 +14,6 @@ export const globalStyles = StyleSheet.create({
         justifyContent: 'center',
         paddingTop: 100,
       },
-      
       titleText: {
         fontSize: 30,
         fontWeight: "bold",
